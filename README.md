@@ -105,3 +105,7 @@ http://127.0.0.1:8000/
 ## License
 
 This project is open for learning and development purposes.
+
+## Credits
+
+Based on [entbappy/Car-License-Plate-Detection-App-with-Ultralytics-Platform-](https://github.com/entbappy/Car-License-Plate-Detection-App-with-Ultralytics-Platform-), licensed under the Apache License 2.0. See [LICENSE](LICENSE).
